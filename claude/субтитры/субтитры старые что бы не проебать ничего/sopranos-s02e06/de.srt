@@ -1,0 +1,215 @@
+1
+00:00:00,370 --> 00:00:02,030
+Ich erhöhe auf vier.
+
+2
+00:00:01,860 --> 00:00:04,440
+Hier ist dein Wechselgeld.
+
+3
+00:00:05,640 --> 00:00:06,480
+Mike.
+
+4
+00:00:07,390 --> 00:00:11,690
+Hey, Mike. — Matt, Tony will dich sprechen.
+
+5
+00:00:12,880 --> 00:00:16,580
+Ja, T? — Tony. Hast du die Macanudos?
+
+6
+00:00:16,150 --> 00:00:19,250
+Ja, willst du eine? — Eine für mich, eine für Dr. Fried.
+
+7
+00:00:23,240 --> 00:00:26,030
+Meine Herren? Frank?
+
+8
+00:00:25,560 --> 00:00:26,350
+Ja, ich bin dabei.
+
+9
+00:00:25,880 --> 00:00:26,480
+Ich auch.
+
+10
+00:00:33,390 --> 00:00:35,090
+Vierhundert an dich, Sil.
+
+11
+00:00:36,260 --> 00:00:39,220
+Was ist im Pot? — Ungefähr 2400.
+
+12
+00:00:39,310 --> 00:00:43,940
+Zu früh, um einer Straße hinterherzujagen. — Doc?
+
+13
+00:00:44,410 --> 00:00:45,260
+Ich gehe mit.
+
+14
+00:00:47,310 --> 00:00:50,800
+Willst du eine Zigarre? — Na los, zieh Leine.
+
+15
+00:00:50,980 --> 00:00:53,920
+Lass dich von ihm nicht einschüchtern. So ein Mistkerl ist er gar nicht.
+
+16
+00:00:54,190 --> 00:00:56,430
+Er ist ein unglaublicher Mistkerl.
+
+17
+00:00:55,960 --> 00:00:59,620
+Hey, Herr Vorstandsvorsitzender, schau in deine Karten.
+
+18
+00:00:59,150 --> 00:01:00,680
+Vierhundert an dich, John.
+
+19
+00:01:01,640 --> 00:01:05,640
+Bei Shakespeare wird's eine Straße. Paulie hat wie immer einen Scheiß.
+
+20
+00:01:05,170 --> 00:01:09,640
+Und der Mistkerl von Doktor hat vielleicht einen Flush.
+
+21
+00:01:09,540 --> 00:01:13,690
+Stell die Tischchen zwischen die Spieler. Leg davon was drauf.
+
+22
+00:01:13,840 --> 00:01:16,770
+Gib niemandem Alkohol, außer er fragt danach, okay?
+
+23
+00:01:21,060 --> 00:01:24,610
+Ich hab gehört, Tony ist hier. Soprano. Ich bin ein Freund von ihm.
+
+24
+00:01:24,140 --> 00:01:26,590
+Kennen wir uns? — Ja, du kennst mich.
+
+25
+00:01:26,740 --> 00:01:29,910
+Mir gehört Ramsey's Sport und Freizeit.
+
+26
+00:01:46,120 --> 00:01:49,130
+Davey, was machst du hier? — Ich bin gerade vorbeigefahren.
+
+27
+00:01:49,480 --> 00:01:51,280
+Ich dachte, ich schau kurz vorbei und sag Hallo.
+
+28
+00:01:52,320 --> 00:01:55,670
+Nicht schlecht, was du hier hast. — Ja, ein echtes Taj Mahal.
+
+29
+00:01:55,820 --> 00:01:59,430
+Hast du die Kinder gehört? — Schlimm genug, dass sie mich ins Stück geschleppt hat.
+
+30
+00:01:58,960 --> 00:02:01,650
+Das Lied will ich nie wieder hören.
+
+31
+00:02:01,180 --> 00:02:03,350
+In den musischen Fächern ist Eric schwach.
+
+32
+00:02:02,880 --> 00:02:06,300
+Mit dem Auftritt schafft er es an die Unis, bei denen er sich bewirbt.
+
+33
+00:02:09,680 --> 00:02:13,210
+Was wird gespielt? — Seven Card.
+
+34
+00:02:12,900 --> 00:02:15,220
+War das Frank Sinatra junior? — Ja.
+
+35
+00:02:15,520 --> 00:02:17,940
+Er ist ein Freund meines Onkels. Er fliegt extra ein.
+
+36
+00:02:18,450 --> 00:02:21,120
+Wow! Das ist echt ein Spiel für Manager.
+
+37
+00:02:22,190 --> 00:02:24,700
+Und, was meinst du? — Eine Ähnlichkeit ist da.
+
+38
+00:02:24,520 --> 00:02:28,280
+Nein, ich meine das Spiel. Könnte ich die schlagen oder was?
+
+39
+00:02:27,810 --> 00:02:30,200
+Davey, das ist kein Spiel für dich.
+
+40
+00:02:30,420 --> 00:02:33,890
+Wann komme ich je wieder so nah an so ein Spiel ran?
+
+41
+00:02:33,420 --> 00:02:37,330
+Lass mich einmal mitspielen. — Ich mache keine Geschäfte mit Freunden.
+
+42
+00:02:36,860 --> 00:02:37,950
+Du verstehst.
+
+43
+00:02:38,150 --> 00:02:40,920
+Muss ich den Jungs dein Abschlussballfoto zeigen?
+
+44
+00:02:41,820 --> 00:02:45,550
+Ich verstehe deine Position, aber komm schon, Tony, ich bin ein großer Junge.
+
+45
+00:02:45,250 --> 00:02:48,420
+Wie viel hast du dabei? — Ich hatte nicht vor, heute zu spielen.
+
+46
+00:02:47,950 --> 00:02:52,500
+Du brauchst fünf Riesen, nur um mitzuspielen. — Kannst du mir was vorstrecken, kurzfristig?
+
+47
+00:02:52,030 --> 00:02:55,570
+Davey, sag nicht kurzfristig, wenn du es nicht so meinst.
+
+48
+00:02:55,820 --> 00:02:57,210
+Spaß beiseite.
+
+49
+00:02:58,050 --> 00:03:00,940
+Verstehst du, was ich sage? — Ja, klar.
+
+50
+00:03:01,030 --> 00:03:03,060
+Hey, du musst mir das Geschäft nicht erklären.
+
+51
+00:03:16,840 --> 00:03:20,840
+Christopher, sag Hallo zu Davey Scatino. — Wie läuft's?
+
+52
+00:03:19,560 --> 00:03:24,640
+Gib ihm fünf Kisten Ziti. Viel Glück.
+
+53
+00:03:24,170 --> 00:03:29,070
+Okay, Leute, macht Platz. Frisches Blut kommt.
+
+54
+00:03:37,610 --> 00:03:38,800
+Also steckt viel Geld in Sportartikeln?
